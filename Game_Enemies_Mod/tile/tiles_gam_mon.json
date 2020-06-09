@@ -1,0 +1,66 @@
+{
+  "type": "mod_tileset",
+  "compatibility": [ "MSX++DEAD_PEOPLE", "UNDEAD_PEOPLE", "MX+(Overhaul)", "MshockXottoplus12" ],
+  "tile_info": [
+    {
+      "height": 32,
+      "width": 32
+    }
+  ],
+  "tiles-new": [
+    {
+      "file": "tile/Game-enemies.png",
+      "tiles": 
+      [
+        { "id": "mon_den_enemy13",   "fg": 0},
+		{ "id": "mon_den_amazoness",   "fg": 3},
+		{ "id": "mon_den_enemy02",   "fg": 5},
+		{ "id": "mon_den_infantry",   "fg": 7},
+		{ "id": "mon_cap_carol",   "fg": 9},
+		{ "id": "mon_fin_eliza",   "fg": 11},
+		{ "id": "mon_fin_may",   "fg": 13},
+		{ "id": "mon_gou_pikopiko",   "fg": 15},
+		{
+          "id": "corpse_mon_den_enemy13",
+          "fg": 1,
+          "rotates": false
+        },
+		{
+          "id": "corpse_mon_den_amazoness",
+          "fg": 4,
+          "rotates": false
+        },
+		{
+          "id": "corpse_mon_den_enemy02",
+          "fg": 6,
+          "rotates": false
+        },
+		{
+          "id": "corpse_mon_den_infantry",
+          "fg": 8,
+          "rotates": false
+        },
+		{
+          "id": "corpse_mon_cap_carol",
+          "fg": 10,
+          "rotates": false
+        },
+		{
+          "id": "corpse_mon_fin_eliza",
+          "fg": 12,
+          "rotates": false
+        },
+		{
+          "id": "corpse_mon_fin_may",
+          "fg": 14,
+          "rotates": false
+        },
+		{
+          "id": "corpse_mon_gou_pikopiko",
+          "fg": 17,
+          "rotates": false
+        }
+      ]
+    }
+  ]
+}
