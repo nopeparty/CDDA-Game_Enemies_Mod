@@ -5,14 +5,14 @@
 	"//": "zombies highest freq : 75",
     "default": "mon_null",
     "monsters": [
-      { "monster" : "mon_den_enemy13", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] },
-	  { "monster" : "mon_den_amazoness", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] },
-	  { "monster" : "mon_den_enemy02", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] },
-	  { "monster" : "mon_den_infantry", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] },
-	  { "monster" : "mon_cap_carol", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] },
-	  { "monster" : "mon_fin_eliza", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] },
-	  { "monster" : "mon_fin_may", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] },
-	  { "monster" : "mon_gou_pikopiko", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] }
+      { "monster" : "mon_den_enemy13", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+	  { "monster" : "mon_den_amazoness", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+	  { "monster" : "mon_den_enemy02", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+	  { "monster" : "mon_den_infantry", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+	  { "monster" : "mon_cap_carol", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+	  { "monster" : "mon_fin_eliza", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+	  { "monster" : "mon_fin_may", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+	  { "monster" : "mon_gou_pikopiko", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] }
     ]
   }
    ,{
@@ -21,14 +21,14 @@
 	"//": "zombies highest freq : 266",
     "default" : "mon_null",
     "monsters" : [
-            { "monster" : "mon_den_enemy13", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4]},
-			{ "monster" : "mon_den_amazoness", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4]},
-			{ "monster" : "mon_den_enemy02", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] },
-			{ "monster" : "mon_den_infantry", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] },
-			{ "monster" : "mon_cap_carol", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4]},
-			{ "monster" : "mon_fin_eliza", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] },
-	  { "monster" : "mon_fin_may", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] },
-	  { "monster" : "mon_gou_pikopiko", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] }
+            { "monster" : "mon_den_enemy13", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3]},
+			{ "monster" : "mon_den_amazoness", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3]},
+			{ "monster" : "mon_den_enemy02", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+			{ "monster" : "mon_den_infantry", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+			{ "monster" : "mon_cap_carol", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3]},
+			{ "monster" : "mon_fin_eliza", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+	  { "monster" : "mon_fin_may", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+	  { "monster" : "mon_gou_pikopiko", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] }
     ]
   }
   ,{
@@ -37,14 +37,14 @@
 	"//": "zombies highest freq : 75",
     "default" : "mon_null",
     "monsters" : [
-      { "monster" : "mon_den_enemy13", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4]},
-	  { "monster" : "mon_den_amazoness", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4]},
-	  { "monster" : "mon_den_enemy02", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] },
-	  { "monster" : "mon_den_infantry", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] },
-	  { "monster" : "mon_cap_carol", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4]},
-	  { "monster" : "mon_fin_eliza", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] },
-	  { "monster" : "mon_fin_may", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] },
-	  { "monster" : "mon_gou_pikopiko", "freq" : 40, "cost_multiplier" : 0, "pack_size": [3,4] }
+      { "monster" : "mon_den_enemy13", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3]},
+	  { "monster" : "mon_den_amazoness", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3]},
+	  { "monster" : "mon_den_enemy02", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+	  { "monster" : "mon_den_infantry", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+	  { "monster" : "mon_cap_carol", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3]},
+	  { "monster" : "mon_fin_eliza", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+	  { "monster" : "mon_fin_may", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] },
+	  { "monster" : "mon_gou_pikopiko", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,3] }
     ]
   }
 ]
